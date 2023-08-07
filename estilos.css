@@ -1,0 +1,28 @@
+.header-logo-wrapper{
+    text-align: center;
+    padding: 70px;
+}
+.enlace{
+    color:rgb(175, 45, 60);
+    text-decoration: none;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: #f04e23;
+}
+div.card{
+    text-align: center;
+    box-shadow: 0 1px 15px 0 rgb(41, 57, 82), 
+    0 6px 20px 0 rgba(0, 0, 0, 0.19), 0 10px 20px 0 ;
+    float: left;
+}
+div.card img{
+    width: 80%;
+    margin-top: 20px;
+    transition: all 0.2s;
+}
+div.card img:hover{
+    transform: scale(1.1);
+}
